@@ -1,5 +1,5 @@
 # Homework3
-Naive Bayes, Logistic Regression with PCA
+Naive Bayes, Logistic Regression with PCA by Dhruvakumar V Aklekar (801325204)
 
 
 In this homework, we will use the cancer dataset. (Note: You can use the built-in function from ML libraries for gradient descent, training, and validation.) Also, sample code for accessing and cleaning up the dataset provided in Canvas. For the evaluation of this homework across all problems, use 80%, 20% split.
